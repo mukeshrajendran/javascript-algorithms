@@ -6,4 +6,4 @@ function sum(list){
     }
 }
 
-let x = sum([2,2,1000,1])
+let result = sum([2,2,1000,1])
